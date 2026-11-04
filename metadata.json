@@ -1,0 +1,10 @@
+{
+  "name": "Remix SANAD ALERT - سند ألرت",
+  "description": "منصة وتطبيق رقمي للإنذار المبكر والتعبئة الاجتماعية وإدارة العمل التطوعي داخل المؤسسات الشبانية",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

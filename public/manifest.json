@@ -1,0 +1,24 @@
+{
+  "name": "SANAD ALERT - سند ألرت",
+  "short_name": "SANAD ALERT",
+  "description": "نظام رقمي للإنذار المبكر والتعبئة الاجتماعية وإدارة العمل التطوعي داخل المؤسسات الشبانية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "ar",
+  "dir": "rtl"
+}
